@@ -1,23 +1,31 @@
-## Olá, sou o João Felipe 🙋🏾‍♂️
+## Sobre mim
 
-Um apaixonado por música, livros, tecnologia e a mente humana. Um curioso em compreender o poder da mente e como extrair o melhor dela para ser excepcional nas diversas áreas da vida, inclusive na área profissional como desenvolvedor.
-Comecei minha jornada um pouco perdido e vendo de tudo um pouco, porém atualmente estou direcionando meus estudos para soluções web, sendo o campo que mais me identifiquei.
+:computer: Desenvolvedor Web Full Stack
+<br>
+:school: Graduado em Análise e Desenvolvimento de Sistemas
+<br>
+:crossed_swords: Apaixonado por RPG
+<br>
+:headphones: Adoro ouvir música
+<br>
+:pirate_flag: De vez em quando, CTF Player
+<br>
+:speech_balloon: Ideias, perguntas ou recomendações de playlists <a href="https://github.com/devfborges/devfborges/issues">aqui.</a>
+<br>
 
-### "Saiba mais"
+## Tecnologias
 
-[![LinkdIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devfelipeborges/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_felipebgs/)
+**Frontend:** <br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery)](https://skillicons.dev)
+<br>
+**Backend:** <br>
+[![My Skills](https://skillicons.dev/icons?i=python,flask,django,mongo,postgres)](https://skillicons.dev)
+<br>
+**Extras:** <br>
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,vercel,docker)](https://skillicons.dev)
+<br>
 
-<div>
-<a href="https://github.com/devfborges">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devfborges&layout=compact&langs_count=7&theme=nightowl"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=devfborges&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-</div>
+## Redes
 
-### Tecnologias
-
-  * HTML, CSS e JavaScript
-  * Node.js (Express)
-  * Typescript
-  * MongoDB
-  * Python
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devfelipeborges/)
+[![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/felipebgx)
