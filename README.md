@@ -16,13 +16,15 @@
 ## Tecnologias
 
 **Frontend:** <br>
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery)
 <br>
+
 **Backend:** <br>
-[![My Skills](https://skillicons.dev/icons?i=python,flask,django,mongo,postgres)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=python,flask,django,mongo,postgres)
 <br>
+
 **Extras:** <br>
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,vercel,docker)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=git,github,vscode,vercel,docker)
 <br>
 
 ## Redes
