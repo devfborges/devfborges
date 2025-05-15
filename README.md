@@ -1,33 +1,27 @@
 ## Sobre mim
 
-:computer: Desenvolvedor Web Full Stack
+:computer: Analista de Dados
 <br>
 :school: Graduado em Análise e Desenvolvimento de Sistemas
 <br>
-:crossed_swords: Apaixonado por RPG
+:crossed_swords: Gosto muito de um bom RPG
 <br>
 :headphones: Adoro ouvir música
 <br>
-:pirate_flag: De vez em quando, CTF Player
+:pirate_flag: Apaixonado por Segurança Cibernética
 <br>
 :speech_balloon: Ideias, perguntas ou recomendações de playlists <a href="https://github.com/devfborges/devfborges/issues">aqui.</a>
 <br>
 
 ## Tecnologias
 
-**Frontend:** <br>
-![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery)
 <br>
 
-**Backend:** <br>
-![My Skills](https://skillicons.dev/icons?i=python,flask,django,mongo,postgres)
-<br>
+![My Skills](https://skillicons.dev/icons?i=python,postgres,git,aws,gcp,linux,docker)
 
-**Extras:** <br>
-![My Skills](https://skillicons.dev/icons?i=git,github,vscode,vercel,docker)
 <br>
 
 ## Redes
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devfelipeborges/)
-[![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/felipebgx)
+[![X](https://img.shields.io/badge/Instagram-DD2A7B?style=for-the-badge&logo=instagram)](https://www.instagram.com/_felipebgs/)
