@@ -1,27 +1,16 @@
 ## Sobre mim
 
-:computer: Analista de Dados
-<br>
-:school: Graduado em Análise e Desenvolvimento de Sistemas
-<br>
-:crossed_swords: Gosto muito de um bom RPG
-<br>
-:headphones: Adoro ouvir música
-<br>
-:pirate_flag: Apaixonado por Segurança Cibernética
-<br>
-:speech_balloon: Ideias, perguntas ou recomendações de playlists <a href="https://github.com/devfborges/devfborges/issues">aqui.</a>
-<br>
+Analista de dados com formação em Análise e Desenvolvimento de Sistemas e forte interesse por tudo que envolve tecnologia e segurança cibernética. Gosto de explorar dados, automatizar processos e buscar soluções inteligentes para problemas reais. Além de atuar na área de dados, também me interesso bastante por segurança ofensiva. Estou sempre estudando o assunto, participando de competições CTF e, às vezes, me aventurando em programas de bug bounty.
 
-## Tecnologias
+Se tiver alguma ideia, dúvida, projeto bacana ou até uma playlist legal pra compartilhar, pode me chamar!
 
+## Contato
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="16" height="16" /> [Gmail](mailto://joaofbcruz@gmail.com) 
 <br>
-
-![My Skills](https://skillicons.dev/icons?i=python,postgres,git,aws,gcp,linux,docker)
-
+<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="16" height="16" /> [LinkedIn](https://www.linkedin.com/in/devfelipeborges/)
 <br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/ac/Instagram-Gradient-Logo-PNG.png" width="16" height="16" /> [Instagram](https://www.instagram.com/_felipebgs/)
 
-## Redes
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devfelipeborges/)
-[![X](https://img.shields.io/badge/Instagram-DD2A7B?style=for-the-badge&logo=instagram)](https://www.instagram.com/_felipebgs/)
+
