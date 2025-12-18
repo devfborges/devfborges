@@ -1,6 +1,6 @@
 ## Sobre mim
 
-Engenheiro de dados com formação em Análise e Desenvolvimento de Sistemas e forte interesse por tudo que envolve tecnologia e segurança cibernética. Gosto de desenvolver e gerenciar pipelines visando sempre a eficiencia e a qualidade dos dados, automatizar processos e buscar soluções inteligentes para problemas reais. Além de atuar na área de dados, também me interesso bastante por segurança ofensiva. Estou sempre estudando o assunto, participando de competições CTF e, às vezes, me aventurando em programas de bug bounty.
+Engenheiro de dados com formação em Análise e Desenvolvimento de Sistemas e forte interesse por tudo que envolve tecnologia e segurança cibernética. Possuo experiência no desenvolvimento e gerenciamento de pipelines de dados utilizando Python e Java, além de ferramentas como Apache Airflow, Apache Spark, dbt, Pandas, entre outras, sempre visando a eficiência, a qualidade dos dados e a automação de processos. Busco constantemente soluções inteligentes para problemas reais. Além de atuar na área de dados, também me interesso bastante por segurança ofensiva, mantendo estudo contínuo, participando de competições CTF e, ocasionalmente, explorando programas de bug bounty.
 
 Se tiver alguma ideia, dúvida, projeto bacana ou até uma playlist legal pra compartilhar, pode me chamar!
 
